@@ -5,14 +5,14 @@ namespace Rubix\ML\Kernels\Distance;
 use Rubix\ML\DataType;
 
 /**
- * Euclidean
+ * Haversine
  *
  * Distance between two points on a sphere using latitude and longitude.
  *
  * @category    Machine Learning
  * @package     Rubix/ML
  * @author      Andrew DalPino
- * @author      JS Quetier
+ * @author      JS Quetier, with inspiration from Akanksha Rai(Abby_akku)
  */
 class Haversine implements Distance
 {

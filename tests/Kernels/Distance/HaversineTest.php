@@ -9,7 +9,7 @@ use Generator;
 
 /**
  * @group Distances
- * @covers \Rubix\ML\Kernels\Distance\Euclidean
+ * @covers \Rubix\ML\Kernels\Distance\Haversine
  */
 class HaversineTest extends TestCase
 {
